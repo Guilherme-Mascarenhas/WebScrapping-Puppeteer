@@ -15,7 +15,7 @@ Site: http://books.toscrape.com/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-NodeJS
+- NodeJS
 Bibliotecas
 -   **Axios (Requisição HTTP)**
 -   **Puppeteer (Analisa Mercações)**
