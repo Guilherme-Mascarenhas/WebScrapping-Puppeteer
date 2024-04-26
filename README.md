@@ -26,13 +26,13 @@ Bibliotecas
 
 ### Pre-requisitos
 
-Antes de começar, voce vai precisar ter instalado em sua m�quina as seguintes ferramentas:
+Antes de começar, voce vai precisar ter instalado em sua maquina as seguintes ferramentas:
 
 Nodejs
 Editor de codigo (VsCode)
 Git
 
-### Rodando a Aplica��o
+### Rodando a Aplicação
 
 Apos instalado o NodeJs e glonado esse repositorio.
 1. Ira acessar a pasta do projeto
