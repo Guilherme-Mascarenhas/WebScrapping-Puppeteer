@@ -28,13 +28,13 @@ Bibliotecas
 
 Antes de começar, voce vai precisar ter instalado em sua maquina as seguintes ferramentas:
 
-Nodejs
-Editor de codigo (VsCode)
-Git
+- Nodejs
+- Editor de codigo (VsCode)
+- Git
 
 ### Rodando a Aplicação
 
-Apos instalado o NodeJs e glonado esse repositorio.
+Apos instalado o NodeJs e clonado esse repositorio.
 1. Ira acessar a pasta do projeto
 2. na raiz do projeto ira abrir o terminal do seu editor
 3. Executar o seguinte comando **npm install**
